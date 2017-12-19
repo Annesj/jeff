@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-<title>Back off, kiddo</title>
 <head>
+<title>Back off, kiddo</title>
 <link rel="stylesheet" type="text/css" href="edge.css">
 </head>
 <body>
